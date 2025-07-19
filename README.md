@@ -7,4 +7,4 @@
 <ul>HTML</ul>
 <ul>CSS</ul>
 <br>
-<img src="https://github.com/Alex95221/Primeiro-Projeto-Responsividade/blob/develop/assets/Captura%20de%20tela%202025-07-15%20221239.png?raw=true">
+<img src="https://raw.githubusercontent.com/Alex95221/Primeiro-Projeto-Responsividade/0a47543a4c3b7ff0a48da65b6b0174bfb4e32ea3/assets/Captura%20de%20tela%202025-07-15%20221239.png">
